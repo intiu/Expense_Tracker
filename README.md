@@ -16,6 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Mobile spending management app for use with google sheets
+
 link google sheet: https://docs.google.com/spreadsheets/d/1JetFzUJEFVLQsGlAQ_lCtgVWWL1_b0MvsaTnx_IwNRM/edit?usp=sharing
 
 ![Web capture_20-6-2022_22110_docs google com](https://user-images.githubusercontent.com/48725946/174630512-bb80f525-90d3-4ab0-be23-957c27ddfe53.jpeg)
